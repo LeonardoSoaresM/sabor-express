@@ -1,0 +1,15 @@
+{
+    "Mc Donald'S": {
+        "average": 5,
+        "individual_ratings": [
+            {
+                "rating": 5,
+                "description": "Great!"
+            },
+            {
+                "rating": 1,
+                "description": "horrivel"
+            }
+        ]
+    }
+}

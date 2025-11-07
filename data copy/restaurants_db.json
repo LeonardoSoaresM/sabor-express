@@ -1,0 +1,569 @@
+{
+  "restaurants": [
+    {
+      "name": "Burguer King",
+      "category": "Fast Food",
+      "menu": [
+        {
+          "Item": "Whopper® Sandwich",
+          "Price": 46.35,
+          "Description": "Uma opção saudável e equilibrada."
+        },
+        {
+          "Item": "Whopper® Sandwich with Cheese",
+          "Price": 37.47,
+          "Description": "Uma opção saudável e satisfatória."
+        },
+        {
+          "Item": "Bacon & Cheese Whopper® Sandwich",
+          "Price": 49.44,
+          "Description": "Leve e delicioso, perfeito para compartilhar."
+        },
+        {
+          "Item": "Double Whopper® Sandwich",
+          "Price": 57.83,
+          "Description": "Uma combinação perfeita de sabores e texturas."
+        },
+        {
+          "Item": "Double Whopper® Sandwich with Cheese",
+          "Price": 37.02,
+          "Description": "A escolha ideal para ocasiões especiais."
+        },
+        {
+          "Item": "Triple Whopper® Sandwich",
+          "Price": 55.49,
+          "Description": "Sabor autêntico e suculento."
+        },
+        {
+          "Item": "Triple Whopper® Sandwich with Cheese",
+          "Price": 49.59,
+          "Description": "Para os amantes de bebidas geladas."
+        },
+        {
+          "Item": "Whopper JR.® Sandwich",
+          "Price": 38.31,
+          "Description": "Uma opção deliciosa e satisfatória."
+        },
+        {
+          "Item": "Bacon King Sandwich",
+          "Price": 54.55,
+          "Description": "Para os amantes de bebidas geladas."
+        },
+        {
+          "Item": "Ketchup (Packet)",
+          "Price": 44.96,
+          "Description": "Uma explosão de sabores em cada mordida."
+        },
+        {
+          "Item": "Mayonnaise (Packet)",
+          "Price": 59.52,
+          "Description": "Incrivelmente saboroso e gratificante."
+        }
+      ],
+      "ratings": {
+        "average": 5,
+        "individual_ratings": [
+          {
+            "rating": 5,
+            "description": "Great!"
+          }
+        ]
+      }
+    },
+    {
+      "name": "KFC",
+      "category": "Fast Food",
+      "menu": [
+        {
+          "Item": "Limited Time Cinnabon Dessert  Biscuits",
+          "Price": 58.53,
+          "Description": "Uma explosão de sabores em cada mordida."
+        },
+        {
+          "Item": "Limited Time ORIGINAL RECIPE CHICKEN Chicken Breast",
+          "Price": 45.72,
+          "Description": "Sabores autênticos que aquecem o coração."
+        },
+        {
+          "Item": "Limited Time ORIGINAL RECIPE CHICKEN Chicken Limited Time Drumstick",
+          "Price": 30.51,
+          "Description": "Sabores autênticos que aquecem o coração."
+        },
+        {
+          "Item": "Limited Time ORIGINAL RECIPE CHICKEN Chicken Thigh",
+          "Price": 48.5,
+          "Description": "Perfeito para quem gosta de sabores picantes."
+        },
+        {
+          "Item": "Limited Time ORIGINAL RECIPE CHICKEN Chicken Whole Wing",
+          "Price": 35.85,
+          "Description": "Leve e delicioso, perfeito para compartilhar."
+        },
+        {
+          "Item": "Chicken Breast",
+          "Price": 43.68,
+          "Description": "A escolha ideal para ocasiões especiais."
+        },
+        {
+          "Item": "Chicken Drumstick",
+          "Price": 38.71,
+          "Description": "Uma explosão de sabores em cada mordida."
+        },
+        {
+          "Item": "Chicken Thigh",
+          "Price": 42.78,
+          "Description": "Uma bebida gelada e revigorante."
+        },
+        {
+          "Item": "Chicken Whole Wing",
+          "Price": 46.97,
+          "Description": "Uma explosão de sabores em um só prato."
+        },
+        {
+          "Item": "Breast",
+          "Price": 43.29,
+          "Description": "Incrivelmente refrescante e saboroso."
+        },
+        {
+          "Item": "Drumstick",
+          "Price": 50.51,
+          "Description": "Uma explosão de sabores em cada mordida."
+        },
+        {
+          "Item": "Thigh",
+          "Price": 46.14,
+          "Description": "Sabor autêntico e suculento."
+        },
+        {
+          "Item": "Whole Wing",
+          "Price": 51.99,
+          "Description": "Perfeito para quem gosta de sabores picantes."
+        },
+        {
+          "Item": "Colonel’s Buttery Spread",
+          "Price": 49.06,
+          "Description": "Incrivelmente saboroso e gratificante."
+        },
+        {
+          "Item": "Grape Jelly Packet",
+          "Price": 55.07,
+          "Description": "Leve e delicioso, perfeito para compartilhar."
+        },
+        {
+          "Item": "Honey Mustard – Dipping Sauce Cup",
+          "Price": 49.96,
+          "Description": "Uma combinação perfeita de sabores e texturas."
+        },
+        {
+          "Item": "Mountain Dew® (30 fl oz)",
+          "Price": 38.0,
+          "Description": "Sinta o sabor do verão a cada gole."
+        }
+      ],
+      "ratings": {
+        "average": 5,
+        "individual_ratings": [
+          {
+            "rating": 5,
+            "description": "Great!"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mc Donald's",
+      "category": "Fast Food",
+      "menu": [
+        {
+          "Item": "Hamburger",
+          "Price": 32.42,
+          "Description": "Uma explosão de sabores em cada mordida."
+        },
+        {
+          "Item": "Cheeseburger",
+          "Price": 38.81,
+          "Description": "Uma opção saudável e equilibrada."
+        },
+        {
+          "Item": "Double Cheeseburger",
+          "Price": 50.18,
+          "Description": "Leve e saboroso, perfeito a qualquer hora."
+        },
+        {
+          "Item": "McDouble",
+          "Price": 55.73,
+          "Description": "Uma opção saudável e satisfatória."
+        },
+        {
+          "Item": " Quarter Pounder® with Cheese",
+          "Price": 57.48,
+          "Description": "Uma opção deliciosa e reconfortante."
+        },
+        {
+          "Item": "Double Quarter Pounder® with Cheese",
+          "Price": 48.59,
+          "Description": "Leve e delicioso, perfeito para compartilhar."
+        },
+        {
+          "Item": "Big Mac®",
+          "Price": 45.34,
+          "Description": "Molhos deliciosos para realçar seus pratos."
+        },
+        {
+          "Item": "Fruit & Maple Oatmeal",
+          "Price": 37.85,
+          "Description": "Sabor autêntico e suculento."
+        },
+        {
+          "Item": "Iced Coffee– Hazelnut (Large)",
+          "Price": 50.21,
+          "Description": "Uma combinação perfeita de sabores e texturas."
+        },
+        {
+          "Item": "Strawberry Banana Smoothie (Medium)",
+          "Price": 39.63,
+          "Description": "Uma experiência refrescante e doce."
+        },
+        {
+          "Item": "Strawberry Banana Smoothie (Small)",
+          "Price": 39.79,
+          "Description": "Uma explosão de sabores em um só prato."
+        },
+        {
+          "Item": "Wild Berry Smoothie (Large)",
+          "Price": 37.47,
+          "Description": "Sinta o sabor da tradição em cada mordida."
+        },
+        {
+          "Item": "Wild Berry Smoothie (Medium)",
+          "Price": 48.45,
+          "Description": "Sabor exótico que vai te surpreender."
+        },
+        {
+          "Item": "Wild Berry Smoothie (Small)",
+          "Price": 46.83,
+          "Description": "Uma experiência refrescante e doce."
+        }
+      ],
+      "ratings": {
+        "average": 5,
+        "individual_ratings": [
+          {
+            "rating": 5,
+            "description": "Great!"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pizza Hut",
+      "category": "Fast Food",
+      "menu": [
+        {
+          "Item": "Detroit Double Cheesy Pizza Slice",
+          "Price": 57.06,
+          "Description": "Sinta o sabor do verão a cada gole."
+        },
+        {
+          "Item": "Detroit Double Pepperoni Pizza Slice",
+          "Price": 44.86,
+          "Description": "Uma opção deliciosa e satisfatória."
+        },
+        {
+          "Item": "Detroit Meaty Pizza Slice",
+          "Price": 54.53,
+          "Description": "Para os apaixonados por café e lattes."
+        },
+        {
+          "Item": "Detroit Supremo Pizza Slice",
+          "Price": 36.76,
+          "Description": "Molhos deliciosos para realçar seus pratos."
+        },
+        {
+          "Item": "Pan Pizza Slices Backyard BBQ Chicken Personal Pan",
+          "Price": 37.5,
+          "Description": "Sabor exótico que você vai adorar."
+        },
+        {
+          "Item": "Pan Pizza Slices Backyard BBQ Chicken Medium",
+          "Price": 38.87,
+          "Description": "Molhos deliciosos para realçar seus pratos."
+        },
+        {
+          "Item": "Pan Pizza Slices Backyard BBQ Chicken Large",
+          "Price": 38.78,
+          "Description": "Incrivelmente saboroso e gratificante."
+        },
+        {
+          "Item": "Pan Pizza Slices Beyond Meat® Pepperoni Medium",
+          "Price": 39.31,
+          "Description": "Uma explosão de sabores em cada mordida."
+        },
+        {
+          "Item": "Pan Pizza Slices Beyond Meat® Pepperoni Large",
+          "Price": 39.11,
+          "Description": "Leve e delicioso, perfeito para compartilhar."
+        },
+        {
+          "Item": "Pan Pizza Slices Buffalo Chicken Personal Pan",
+          "Price": 46.93,
+          "Description": "A escolha perfeita para um dia especial."
+        },
+        {
+          "Item": "Pan Pizza Slices Buffalo Chicken Medium",
+          "Price": 34.27,
+          "Description": "Uma explosão de sabores em cada mordida."
+        },
+        {
+          "Item": "Pan Pizza Slices Pepperoni Personal Pan",
+          "Price": 40.7,
+          "Description": "Sabores autênticos que aquecem o coração."
+        },
+        {
+          "Item": "Pan Pizza Slices Pepperoni Medium",
+          "Price": 31.21,
+          "Description": "Sabor exótico que você vai adorar."
+        },
+        {
+          "Item": "Pan Pizza Slices Pepperoni Large",
+          "Price": 40.77,
+          "Description": "Sabor autêntico com ingredientes frescos."
+        },
+        {
+          "Item": "Pan Pizza Slices Pepperoni Lover’s® Personal Pan",
+          "Price": 49.27,
+          "Description": "Molhos deliciosos para realçar seus pratos."
+        },
+        {
+          "Item": "Pan Pizza Slices Pepperoni Lover’s® Medium",
+          "Price": 33.46,
+          "Description": "Deliciosos molhos para realçar seu prato."
+        },
+        {
+          "Item": "Hand Tossed Slices Cheese Small",
+          "Price": 42.02,
+          "Description": "Leve e delicioso, perfeito para compartilhar."
+        },
+        {
+          "Item": "Hand Tossed Slices Veggie Lover’s® Large",
+          "Price": 50.63,
+          "Description": "Sabor exótico que vai te surpreender."
+        }
+      ],
+      "ratings": {
+        "average": 5,
+        "individual_ratings": [
+          {
+            "rating": 5,
+            "description": "Great!"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Taco Bell",
+      "category": "Fast Food",
+      "menu": [
+        {
+          "Item": "Bacon Club Chalupa",
+          "Price": 58.33,
+          "Description": "Uma experiência refrescante e doce."
+        },
+        {
+          "Item": "Blue Raspberry Freeze™ (16 oz)",
+          "Price": 39.38,
+          "Description": "Incrivelmente refrescante e saboroso."
+        },
+        {
+          "Item": "Blue Raspberry Freeze™ (20 oz)",
+          "Price": 47.71,
+          "Description": "Sabores autênticos que aquecem o coração."
+        },
+        {
+          "Item": "Mtn Dew® Baja Blast Freeze™ (20 oz)",
+          "Price": 34.68,
+          "Description": "Uma explosão de sabores em um só prato."
+        },
+        {
+          "Item": "Orange Juice",
+          "Price": 47.47,
+          "Description": "Molhos deliciosos para realçar seus pratos."
+        },
+        {
+          "Item": "Premium Hot Coffee",
+          "Price": 57.11,
+          "Description": "A escolha ideal para ocasiões especiais."
+        },
+        {
+          "Item": "Regular Iced Coffee",
+          "Price": 37.42,
+          "Description": "Para os amantes de comida caseira."
+        },
+        {
+          "Item": "Black Beans & Rice",
+          "Price": 58.07,
+          "Description": "Perfeito para quem gosta de sabores picantes."
+        },
+        {
+          "Item": "Cheese Quesadilla",
+          "Price": 30.37,
+          "Description": "Uma combinação perfeita de sabores e texturas."
+        },
+        {
+          "Item": "G2 – Fruit Punch (30 fl oz)",
+          "Price": 41.64,
+          "Description": "Sinta o sabor da tradição em cada mordida."
+        },
+        {
+          "Item": "Mtn Dew® (30 fl oz)",
+          "Price": 29.99,
+          "Description": "Leve e delicioso, perfeito para compartilhar."
+        },
+        {
+          "Item": "Mtn Dew® Baja Blast™ (30 fl oz)",
+          "Price": 49.71,
+          "Description": "Uma opção deliciosa e acolhedora."
+        },
+        {
+          "Item": "Mtn Dew® Baja Blast Zero Sugar (30 fl oz)",
+          "Price": 58.49,
+          "Description": "Incrivelmente saboroso e gratificante."
+        },
+        {
+          "Item": "Mtn Dew® Kickstart™ Orange Citrus (30 fl oz)",
+          "Price": 35.21,
+          "Description": "Uma explosão de sabores em cada mordida."
+        },
+        {
+          "Item": "Mug® Root Beer (30 fl oz)",
+          "Price": 43.55,
+          "Description": "Sabor autêntico com ingredientes frescos."
+        },
+        {
+          "Item": "Pepsi® (30 fl oz)",
+          "Price": 35.97,
+          "Description": "Sabor autêntico e suculento."
+        },
+        {
+          "Item": "Pepsi® Wild Cherry (30 fl oz)",
+          "Price": 55.2,
+          "Description": "Uma combinação única de sabores e texturas."
+        },
+        {
+          "Item": "Pepsi® Zero Sugar (30 fl oz)",
+          "Price": 37.25,
+          "Description": "Uma bebida gelada e revigorante."
+        },
+        {
+          "Item": "Sierra Mist® (30 fl oz)",
+          "Price": 55.33,
+          "Description": "Sinta o sabor da natureza em cada mordida."
+        },
+        {
+          "Item": "Tropicana® Pink Lemonade (30 fl oz)",
+          "Price": 33.03,
+          "Description": "A escolha saudável para um dia agitado."
+        }
+      ],
+      "ratings": {
+        "average": 5,
+        "individual_ratings": [
+          {
+            "rating": 5,
+            "description": "Great!"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wendy's",
+      "category": "Fast Food",
+      "menu": [
+        {
+          "Item": "Baconator",
+          "Price": 39.85,
+          "Description": "Uma combinação perfeita de sabores e texturas."
+        },
+        {
+          "Item": "Dave’s Double",
+          "Price": 52.43,
+          "Description": "A combinação perfeita de doçura e frutas."
+        },
+        {
+          "Item": "Dave’s Single",
+          "Price": 47.66,
+          "Description": "Uma combinação perfeita de sabores e texturas."
+        },
+        {
+          "Item": "Dave’s Triple",
+          "Price": 40.81,
+          "Description": "Para os amantes de bebidas geladas."
+        },
+        {
+          "Item": "Double Stack",
+          "Price": 55.03,
+          "Description": "Uma deliciosa refeição para toda a família."
+        },
+        {
+          "Item": "Jr. Bacon Cheeseburger",
+          "Price": 44.78,
+          "Description": "Sabor autêntico com ingredientes frescos."
+        },
+        {
+          "Item": "Apple Kiwi Fruit Tea, Large",
+          "Price": 38.29,
+          "Description": "Leve e delicioso, perfeito para compartilhar."
+        },
+        {
+          "Item": "Apple Kiwi Fruit Tea, Medium",
+          "Price": 52.91,
+          "Description": "Sabores autênticos que aquecem o coração."
+        },
+        {
+          "Item": "Apple Kiwi Fruit Tea, Small",
+          "Price": 46.17,
+          "Description": "Para os amantes de bebidas geladas."
+        },
+        {
+          "Item": "Barq’s Root Beer, Large",
+          "Price": 53.97,
+          "Description": "Para os amantes de café e cappuccinos."
+        },
+        {
+          "Item": "Barq’s Root Beer, Medium",
+          "Price": 58.0,
+          "Description": "Uma combinação perfeita de sabores e texturas."
+        },
+        {
+          "Item": "Barq’s Root Beer, Small",
+          "Price": 36.28,
+          "Description": "Uma experiência refrescante e doce."
+        },
+        {
+          "Item": "Seasoned Home-Style Potatoes, Small",
+          "Price": 43.1,
+          "Description": "Sabor autêntico e suculento."
+        },
+        {
+          "Item": "Two Sausage and Egg Burritos",
+          "Price": 49.13,
+          "Description": "A escolha perfeita para um dia especial."
+        },
+        {
+          "Item": "Two Sausage Biscuits",
+          "Price": 46.59,
+          "Description": "Uma deliciosa refeição para toda a família."
+        }
+      ],
+      "ratings": {
+        "average": 5,
+        "individual_ratings": [
+          {
+            "rating": 5,
+            "description": "Great!"
+          }
+        ]
+      }
+    }
+  ]
+}
